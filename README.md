@@ -37,6 +37,7 @@ lib/
 Pada tampilan Dashboard akan menampilkann daftar product, Search product yang ingin dicari, filter product berdasarkan category dan bisa checkout product yang diinginkan.
 
 Search product
+
 <img width="964" height="1079" alt="image" src="https://github.com/user-attachments/assets/77e4c543-16e5-4ba7-bc52-34d17bc8a735" />
 
 Filter product berdasarkan category
@@ -50,12 +51,15 @@ Filter product berdasarkan category
 Pada tampilan checkout akan menampilkan product apa yang ingin di pesan, ada jumlah productnya dan harga productnya. Jika membatalkan pemesanan product, tinggal klik icon sampah dan akan menghapus dari daftar checkout dan jika menambahkan jumlah productnya misal beli 2 product otomatis akan bertambah jumlah total harganya.
 
 Update quantity (+/-)
+
 <img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/c8119d40-9a44-418b-b55c-b8ea9b6fb2a4" />
 
 Tampilkan harga total 
+
 <img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/b7280d35-a92a-4325-a39d-920c3a4a7197" />
 
 Jika belum ada product yang ingin dicheckout.
+
 <img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/c44d1790-5205-436a-8c51-3bbe14870d9f" />
 
 
@@ -68,6 +72,7 @@ langkah terakhir yaitu mengisi form ketika mau ngecheckout product.
 # Kesimpulan
 
 Aplikasi ini telah menerapkan manajemen state dengan Provider dan ChangeNotifier, menghitung total harga menggunakan fungsi fold(), memperbarui UI secara otomatis saat data berubah, serta membantu memahami arsitektur model-view, pengelolaan state, dan interaksi antara antarmuka pengguna dengan data.
+
 
 
 
