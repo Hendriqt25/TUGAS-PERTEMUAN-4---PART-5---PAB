@@ -1,16 +1,22 @@
-# flutter_application_3
+# Mini E-Commerce Shopping app
 
-A new Flutter project.
+## Deskripsi Singkat
 
-## Getting Started
+Proyek ini merupakan pengembangan aplikasi Mini E-Commerce Shopping Cart berbasis Flutter yang memanfaatkan Provider sebagai pendekatan dalam pengelolaan state. Aplikasi dirancang untuk mengimplementasikan konsep manajemen state global melalui ChangeNotifier sekaligus mensimulasikan mekanisme dasar sistem keranjang belanja pada platform mobile.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini menyediakan beberapa fitur sebagai berikut
+1. Menampilkan daftar produk
+2. Menambahkan produk ke keranjang
+3. Mengatur jumlah item
+4. Menambahkan dan menghapus item
+5. Menghiitung total harga
+6. Melakukan Checkout
+7. Search products 
+8. Filter products dengan category
 
-A few resources to get you started if this is your first Flutter project:
+# Tampilan Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Dashboard
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/e215a364-6d99-4ded-a466-a4ccaab06f85" />
+
