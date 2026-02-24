@@ -1,4 +1,4 @@
-<img width="953" height="1079" alt="image" src="https://github.com/user-attachments/assets/9af3f31a-52d4-48de-b0d1-c1217373b020" /># Mini E-Commerce Shopping app
+# Mini E-Commerce Shopping app
 
 ## Deskripsi Singkat
 
@@ -64,6 +64,7 @@ Jika belum ada product yang ingin dicheckout.
 <img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/1e57f06a-048f-46e8-9a1b-5314d371beeb" />
 
 langkah terakhir yaitu mengisi form ketika mau ngecheckout product.
+
 
 
 
