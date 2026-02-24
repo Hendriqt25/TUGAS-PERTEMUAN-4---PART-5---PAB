@@ -65,6 +65,10 @@ Jika belum ada product yang ingin dicheckout.
 
 langkah terakhir yaitu mengisi form ketika mau ngecheckout product.
 
+# Kesimpulan
+
+Aplikasi ini telah menerapkan manajemen state dengan Provider dan ChangeNotifier, menghitung total harga menggunakan fungsi fold(), memperbarui UI secara otomatis saat data berubah, serta membantu memahami arsitektur model-view, pengelolaan state, dan interaksi antara antarmuka pengguna dengan data.
+
 
 
 
